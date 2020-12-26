@@ -1,0 +1,4 @@
+vk-api==11.8.0
+colorama==0.4.3
+requests==2.23.0
+pyTelegramBotAPI==3.7.1
